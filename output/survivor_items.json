@@ -1,0 +1,1271 @@
+{
+  "source": "https://deadbydaylight.wiki.gg",
+  "scraped_at": "2025-12-19T16:43:42.695271+00:00",
+  "count": 55,
+  "items": [
+    {
+      "title": "Alex's Toolbox",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Alex%27s_Toolbox",
+      "rarity": "Very Rare",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_alexsToolbox.png?e03e7f",
+      "cost": {
+        "amount": 4000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A metal box containing mainly saws and vice grips of varying sizes but also other tools. Even though the content of this Toolbox is clearly aimed at destructive deeds, it can be used to repair various mechanical components as well.",
+        "effects": [
+          "18 Charges.",
+          "Increases the Repair speed by +10%.",
+          "Unlocks the Sabotage action.",
+          "Increases the Sabotage speed by +100%."
+        ],
+        "flavor_text": "\"Most of the tools are identified as 'owned by Alex'.\"",
+        "raw_text": "A metal box containing mainly saws and vice grips of varying sizes but also other tools. Even though the content of this Toolbox is clearly aimed at destructive deeds, it can be used to repair various mechanical components as well. 18 Charges. Increases the Repair speed by +10%. Unlocks the Sabotage action. Increases the Sabotage speed by +100%. \"Most of the tools are identified as 'owned by Alex'.\""
+      },
+      "categories": [
+        "Very Rare Items"
+      ]
+    },
+    {
+      "title": "All Hallows' Eve Lunchbox",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/All_Hallows%27_Eve_Lunchbox",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_allHallowsEveLunchbox.png?3c0bf6",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A plastic lunchbox with phosphorescent Halloween Stickers that has been packed with First-Aid equipment.",
+        "effects": [
+          "Makes you considerably more visible."
+        ],
+        "flavor_text": "\"Safety first! Make sure you can be seen when trick or treating.\"",
+        "raw_text": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A plastic lunchbox with phosphorescent Halloween Stickers that has been packed with First-Aid equipment. Makes you considerably more visible. Can be used to heal other Survivors: Increased Altruistic Healing speed of +40%. Unlocks the Self-Heal action: Reduced Personal Healing speed of -33%. Reduced Item efficiency of -33%. The All Hallows' Eve Lunchbox has a Capacity of 24 Charges. The All Hallows' Eve Lunchbox is only available during Halloween Events. \"Safety first! Make sure you can be seen when trick or treating.\""
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "Anniversary Flashlight",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Anniversary_Flashlight",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_anniversaryFlashlight.png?983482",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A festive Flashlight.",
+        "effects": [
+          "Press the Use Item button to light the Flashlight for up to 8 seconds.",
+          "Explodes with confetti upon blinding the Killer. Surprise!"
+        ],
+        "flavor_text": "\"\"Happy Anniversary! Here is to many more!\" — The Dead by Daylight Team\"",
+        "raw_text": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A festive Flashlight. Press the Use Item button to light the Flashlight for up to 8 seconds. Explodes with confetti upon blinding the Killer. Surprise! The Anniversary Flashlight was only available during the Fourth and Fifth Year Anniversary Events. \"\"Happy Anniversary! Here is to many more!\" — The Dead by Daylight Team\""
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "Anniversary Med-Kit",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Anniversary_Med-Kit",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_anniversaryMedKit.png?43eff4",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A festive Med-Kit that explodes with confetti upon fully healing a Survivor. Surprise!",
+        "effects": [
+          "Increased confetti of +100%."
+        ],
+        "flavor_text": "\"Happy Anniversary! Here's to many more!\" — The Dead by Daylight Team",
+        "raw_text": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A festive Med-Kit that explodes with confetti upon fully healing a Survivor. Surprise! Increased confetti of +100%. Can be used to heal other Survivors: Increased Altruistic Healing speed of +40%. Unlocks the Self-Heal action: Reduced Personal Healing speed of -33%. Reduced Item efficiency of -33%. The Anniversary Med-Kit has a Capacity of 24 Charges. The Anniversary Med-Kit was only available during the Fourth and Fifth Year Anniversary Events. \"Happy Anniversary! Here's to many more!\" — The Dead by Daylight Team"
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "Anniversary Toolbox",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Anniversary_Toolbox",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_anniversaryToolbox.png?692e50",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A Toolbox that is slightly explosive.",
+        "effects": [
+          "32 Charges.",
+          "Increases the Repair speed by +50%.",
+          "Unlocks the Sabotage action.",
+          "Increases the Sabotage speed by +50%.",
+          "Detonates a firework once depleted. Yay!"
+        ],
+        "flavor_text": "\"Nothing says happy anniversary like detonating a firework and praying the Killer does not notice. Good luck and thank you for celebrating with us!\" — The Dead by Daylight Team",
+        "raw_text": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A Toolbox that is slightly explosive. 32 Charges. Increases the Repair speed by +50%. Unlocks the Sabotage action. Increases the Sabotage speed by +50%. Detonates a firework once depleted. Yay! The Anniversary Toolbox was only available during the Fourth and Fifth Year Anniversary Events. \"Nothing says happy anniversary like detonating a firework and praying the Killer does not notice. Good luck and thank you for celebrating with us!\" — The Dead by Daylight Team"
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "Annotated Map",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Annotated_Map",
+      "rarity": "Rare",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_rainbowMap.png?25dde4",
+      "cost": {
+        "amount": 3250,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "\"The sketch is clear and detailed. Strange knowledge flows into you, followed by dread uncertainty.\" Start the Trial with 6 Charges. Press the Use Item button to channel the Annotated Map:",
+        "effects": [
+          "The Auras of Pallets and Windows within 40 metres of your location are revealed to you for 14 seconds."
+        ],
+        "flavor_text": null,
+        "raw_text": "\"The sketch is clear and detailed. Strange knowledge flows into you, followed by dread uncertainty.\" Start the Trial with 6 Charges. Press the Use Item button to channel the Annotated Map: The Auras of Pallets and Windows within 40 metres of your location are revealed to you for 14 seconds. While channelling the Map, press the Secondary Action button at any point before the timer elapses for the following additional effect: Creates a Beam of Light at your current location that lasts for 16 seconds. The Auras of Generators within 32 metres of it are revealed to all Survivors and highlighted in red. The Annotated Map consumes -1 Charge per use."
+      },
+      "categories": [
+        "Rare Items"
+      ]
+    },
+    {
+      "title": "Antidote",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Antidote",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_firstAidSpray.png?9634ac",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item A potent formula that reverses the effects of both the Uroboros and T-Virus infection.",
+        "effects": [
+          "Press the Use Item button to cure yourself or another Survivor from either or both infections.",
+          "Can be used 3 times before it is consumed.",
+          "Can be found in Supply Cases located in the environment."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item A potent formula that reverses the effects of both the Uroboros and T-Virus infection. Press the Use Item button to cure yourself or another Survivor from either or both infections. Can be used 3 times before it is consumed. Can be found in Supply Cases located in the environment. The Antidote only spawns in 2v8 Trials featuring both The Mastermind and The Nemesis. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Apprentice's Fog Vial",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Apprentice%27s_Fog_Vial",
+      "rarity": "Common",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_apprenticesFogVial.png?15c5b3",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "\"Made by the hands of a diligent but timid novice.\" Start the Trial with 2 Charges. Press the Use Item button to release a concentrated Fog Cloud:",
+        "effects": [
+          "Expands to a maximum size of 8 metres over 2 seconds.",
+          "Lasts for 8 seconds.",
+          "Obscures visibility and sounds within its Area of Effect: Has an opacity of 33%. Suppresses Auras and Scratch Marks.",
+          "Has an opacity of 33%.",
+          "Suppresses Auras and Scratch Marks."
+        ],
+        "flavor_text": null,
+        "raw_text": "\"Made by the hands of a diligent but timid novice.\" Start the Trial with 2 Charges. Press the Use Item button to release a concentrated Fog Cloud: Expands to a maximum size of 8 metres over 2 seconds. Lasts for 8 seconds. Obscures visibility and sounds within its Area of Effect: Has an opacity of 33%. Suppresses Auras and Scratch Marks. Apprentice's Fog Vial takes 70 seconds to recharge after use."
+      },
+      "categories": [
+        "Common Items"
+      ]
+    },
+    {
+      "title": "Artisan's Fog Vial",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Artisan%27s_Fog_Vial",
+      "rarity": "Uncommon",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_artisansFogVial.png?20782b",
+      "cost": {
+        "amount": 2500,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "\"Crafted by an experienced glazier with a love for her craft.\" Start the Trial with 2 Charges. Press the Use Item button to release a concentrated Fog Cloud:",
+        "effects": [
+          "Expands to a maximum size of 8 metres over 1.5 seconds.",
+          "Lasts for 10 seconds.",
+          "Obscures visibility and sounds within its Area of Effect: Has an opacity of 33%. Suppresses Auras and Scratch Marks.",
+          "Has an opacity of 33%.",
+          "Suppresses Auras and Scratch Marks."
+        ],
+        "flavor_text": null,
+        "raw_text": "\"Crafted by an experienced glazier with a love for her craft.\" Start the Trial with 2 Charges. Press the Use Item button to release a concentrated Fog Cloud: Expands to a maximum size of 8 metres over 1.5 seconds. Lasts for 10 seconds. Obscures visibility and sounds within its Area of Effect: Has an opacity of 33%. Suppresses Auras and Scratch Marks. Artisan's Fog Vial takes 65 seconds to recharge after use."
+      },
+      "categories": [
+        "Uncommon Items"
+      ]
+    },
+    {
+      "title": "Blood Can",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Blood_Can",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconItems_LimitedJerryCan.png?ba5ae1",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item The handle is slick, and blood wells between your fingers as you tighten your grip. The Blood Can is found when interacting with the Blood Pump and required to carry the blood needed to repair Blood Generators:",
+        "effects": [
+          "Holds a maximum of 40 Litres of blood: Loses -0.5 L/s when left on the ground. Loses -0.7 L/s while running. Loses -20 Litres when toppled over.",
+          "Loses -0.5 L/s when left on the ground.",
+          "Loses -0.7 L/s while running.",
+          "Loses -20 Litres when toppled over.",
+          "Running produces Pools of Blood.",
+          "Emits distinct noises while carried, which vary depending on your Movement speed and the number of Litres of blood being carried."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item The handle is slick, and blood wells between your fingers as you tighten your grip. The Blood Can is found when interacting with the Blood Pump and required to carry the blood needed to repair Blood Generators: Holds a maximum of 40 Litres of blood: Loses -0.5 L/s when left on the ground. Loses -0.7 L/s while running. Loses -20 Litres when toppled over. Running produces Pools of Blood. Emits distinct noises while carried, which vary depending on your Movement speed and the number of Litres of blood being carried. While filling the Blood Can at a Blood Pump, you benefit from the following effect: The Aura of the nearest Blood Generator is revealed to you. This effect lingers for 10 seconds. The Blood Can vanishes from the Trial when empty and is only available during Spring Events. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Bloodsense Map",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Bloodsense_Map",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_bloodsenseMap.png?d98285",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "\"A bloodstained piece of parchment, hastily rolled and burning with a strange power.\" Start the Trial with 8 Charges. Press the Use Item button to channel the Bloodsense Map:",
+        "effects": [
+          "The Auras of injured Survivors, Pallets, and Windows within 48 metres of your location are revealed to you for 14 seconds.",
+          "Causes Pools of Blood to spawn beneath you while being used."
+        ],
+        "flavor_text": null,
+        "raw_text": "\"A bloodstained piece of parchment, hastily rolled and burning with a strange power.\" Start the Trial with 8 Charges. Press the Use Item button to channel the Bloodsense Map: The Auras of injured Survivors, Pallets, and Windows within 48 metres of your location are revealed to you for 14 seconds. Causes Pools of Blood to spawn beneath you while being used. While channelling the Map, press the Secondary Action button at any point before the timer elapses for the following additional effect: Creates a Beam of Light at your current location that lasts for 16 seconds. The Auras of Generators within 32 metres of it are revealed to all Survivors and highlighted in red. The Bloodsense Map consumes -1 Charge per use."
+      },
+      "categories": [
+        "Event Items",
+        "Common Items"
+      ]
+    },
+    {
+      "title": "Broken Key",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Broken_Key",
+      "rarity": "Common",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_brokenKey.png?32b943",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "\"The bow and shank of a key, vibrating with power.\" Start the Trial with 6 Charges. Press and hold the Use Item button to channel the Broken Key:",
+        "effects": [
+          "The Auras of other Survivors within 48 metres of your location are revealed to you for 8 seconds."
+        ],
+        "flavor_text": null,
+        "raw_text": "\"The bow and shank of a key, vibrating with power.\" Start the Trial with 6 Charges. Press and hold the Use Item button to channel the Broken Key: The Auras of other Survivors within 48 metres of your location are revealed to you for 8 seconds. The Broken Key consumes -1 Charge per use of its ability."
+      },
+      "categories": [
+        "Common Items"
+      ]
+    },
+    {
+      "title": "Camping Aid Kit",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Camping_Aid_Kit",
+      "rarity": "Common",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_campingAidKit.png?66c06a",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A rudimentary First Aid Kit which can save lives in emergencies, even if it's lacking some of its supplies. Can be used to heal other Survivors:",
+        "effects": [
+          "Increased Altruistic Healing speed of +35%."
+        ],
+        "flavor_text": "\"Barely has enough material for a decent patch-up.\"",
+        "raw_text": "A rudimentary First Aid Kit which can save lives in emergencies, even if it's lacking some of its supplies. Can be used to heal other Survivors: Increased Altruistic Healing speed of +35%. Unlocks the Self-Heal action: Reduced Personal Healing speed of -33%. Reduced Item efficiency of -33%. The Camping Aid Kit has a Capacity of 24 Charges. \"Barely has enough material for a decent patch-up.\""
+      },
+      "categories": [
+        "Common Items"
+      ]
+    },
+    {
+      "title": "Candelabra",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Candelabra",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_fireflyLantern.png?6818a2",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item In the darkest of castles, any light is a precious commodity. All Survivors start the Trial with a Candelabra held in hand.",
+        "effects": [
+          "Additional Candelabras may be found in Chests located in the environment.",
+          "The Auras of all Candelabras placed in the environment are revealed to all Survivors in white at all times.",
+          "Pushes back the Fog as a passive effect when held."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item In the darkest of castles, any light is a precious commodity. All Survivors start the Trial with a Candelabra held in hand. Additional Candelabras may be found in Chests located in the environment. The Auras of all Candelabras placed in the environment are revealed to all Survivors in white at all times. Pushes back the Fog as a passive effect when held. Press and hold the Use Item button while holding the Candelabra to benefit from the following effects: 90 Charges. The Aura of the nearest incomplete Generator is revealed to you. The Survivor Activity HUD is displayed to you, but without any visible Progression. Place the Candelabra on top of a Generator to benefit from the following effects: The Aura of that Generator is revealed to all Survivors within 32 metres. Completing that Generator causes it to suppress the Killer's ability to read the Auras of all remaining incomplete Generators for 15 seconds or until the Candelabra is removed from it by any means. Can be destroyed by the Killer when placed on Generators. The Candelabra is only available for use in the Lights Out - Castlevania Modifier Event. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Chinese Firecracker",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Chinese_Firecracker",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_chineseFirecracker.png?622685",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A row of small explosive devices wrapped in heavy paper casing. Can be used as a distraction, as a blinding device or to celebrate.",
+        "effects": [
+          "Press the Use Item button to detonate the Firecracker.",
+          "Detonates into loud bangs and intense light flashes, temporarily blinding and deafening nearby Players."
+        ],
+        "flavor_text": null,
+        "raw_text": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A row of small explosive devices wrapped in heavy paper casing. Can be used as a distraction, as a blinding device or to celebrate. Press the Use Item button to detonate the Firecracker. Detonates into loud bangs and intense light flashes, temporarily blinding and deafening nearby Players. The Chinese Firecracker is consumed on use. The Chinese Firecracker is only available during Lunar Events."
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "Commodious Toolbox",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Commodious_Toolbox",
+      "rarity": "Rare",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_commodiousToolbox.png?b118a1",
+      "cost": {
+        "amount": 3250,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A large metal box containing basic tool and extra mechanical parts. Even without training, can be used to repair or break various mechanical components.",
+        "effects": [
+          "32 Charges.",
+          "Increases the Repair speed by +50%.",
+          "Unlocks the Sabotage action.",
+          "Increases the Sabotage speed by +50%."
+        ],
+        "flavor_text": null,
+        "raw_text": "A large metal box containing basic tool and extra mechanical parts. Even without training, can be used to repair or break various mechanical components. 32 Charges. Increases the Repair speed by +50%. Unlocks the Sabotage action. Increases the Sabotage speed by +50%."
+      },
+      "categories": [
+        "Rare Items"
+      ]
+    },
+    {
+      "title": "Cryptic Map",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Cryptic_Map",
+      "rarity": "Common",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_CrypticMap.png?624911",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "\"Looking at it, the directions make no sense. But merely holding it grants you an uncanny intuition.\" Start the Trial with 4 Charges. Press the Use Item button to channel the Cryptic Map:",
+        "effects": [
+          "The Auras of Pallets and Windows within 24 metres of your location are revealed to you for 10 seconds."
+        ],
+        "flavor_text": null,
+        "raw_text": "\"Looking at it, the directions make no sense. But merely holding it grants you an uncanny intuition.\" Start the Trial with 4 Charges. Press the Use Item button to channel the Cryptic Map: The Auras of Pallets and Windows within 24 metres of your location are revealed to you for 10 seconds. While channelling the Map, press the Secondary Action button at any point before the timer elapses for the following additional effect: Creates a Beam of Light at your current location that lasts for 16 seconds. The Auras of Generators within 32 metres of it are revealed to all Survivors and highlighted in red. The Cryptic Map consumes -1 Charge per use."
+      },
+      "categories": [
+        "Common Items"
+      ]
+    },
+    {
+      "title": "Dull Key",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Dull_Key",
+      "rarity": "Uncommon",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_dullKey.png?a30f9d",
+      "cost": {
+        "amount": 2500,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "\"A bent and dull key that once held great power.\" Start the Trial with 5 Charges. Press and hold the Use Item button to channel the Dull Key:",
+        "effects": [
+          "The Auras of other Survivors within 56 metres of your location are revealed to you for 9 seconds."
+        ],
+        "flavor_text": null,
+        "raw_text": "\"A bent and dull key that once held great power.\" Start the Trial with 5 Charges. Press and hold the Use Item button to channel the Dull Key: The Auras of other Survivors within 56 metres of your location are revealed to you for 9 seconds. While standing next to a locked Chest, press the Use Item button to quickly open it: Guarantees an Item of Rare Rarity or higher. The Aura of the Chest is revealed to other Survivors within 42 metres and highlighted in yellow: Grants the ability for 1 other Survivor to Rummage through that Chest once. Guarantees an Item of Rare Rarity or higher. While performing the Rummage action, the Aura of that Survivor is revealed to the Key holder. While standing next to the closed Hatch, press the Use Item button to re-open it: Takes 2.5 seconds to open. The Dull Key consumes -1 Charge per use of any one of its abilities."
+      },
+      "categories": [
+        "Uncommon Items"
+      ]
+    },
+    {
+      "title": "EMP",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/EMP",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_emp.png?d9bba8",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item An electromagnetic pulse device that is printed by Supply Cases when facing The Singularity. The Auras of Supply Cases are visible when within 28 metres:",
+        "effects": [
+          "Takes 100 Charges to be printed. Passive printing charges at a rate of +1 c/s, but is limited to 97 Charges, requiring the final 3 Charges to be actively printed by a Survivor. Active printing charges at a rate of +4 c/s while a Survivor interacts with the Supply Case.",
+          "Passive printing charges at a rate of +1 c/s, but is limited to 97 Charges, requiring the final 3 Charges to be actively printed by a Survivor.",
+          "Active printing charges at a rate of +4 c/s while a Survivor interacts with the Supply Case.",
+          "Takes 2.5 seconds to charge.",
+          "Incurs a -10% Hindered Status Effect while charging and holding.",
+          "Has an Area of Effect of 10 metres.",
+          "Removes Temporal Slipstream from anyone within its Area of Effect upon detonation. The Auras of other Slipstreamed Survivors are revealed to you in yellow when within the Area of Effect.",
+          "The Auras of other Slipstreamed Survivors are revealed to you in yellow when within the Area of Effect.",
+          "Disables all Biopods within the Area of Effect for 45 seconds upon detonation and grants immunity to Temporal Slipstream for 1 second."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item An electromagnetic pulse device that is printed by Supply Cases when facing The Singularity. The Auras of Supply Cases are visible when within 28 metres: Takes 100 Charges to be printed. Passive printing charges at a rate of +1 c/s, but is limited to 97 Charges, requiring the final 3 Charges to be actively printed by a Survivor. Active printing charges at a rate of +4 c/s while a Survivor interacts with the Supply Case. Takes 2.5 seconds to charge. Incurs a -10% Hindered Status Effect while charging and holding. Has an Area of Effect of 10 metres. Removes Temporal Slipstream from anyone within its Area of Effect upon detonation. The Auras of other Slipstreamed Survivors are revealed to you in yellow when within the Area of Effect. Disables all Biopods within the Area of Effect for 45 seconds upon detonation and grants immunity to Temporal Slipstream for 1 second. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Emergency Med-Kit",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Emergency_Med-Kit",
+      "rarity": "Rare",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_emergencyMedKit.png?3e0dbf",
+      "cost": {
+        "amount": 3250,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A sturdy and well organised Med-Kit equipped with top condition emergency supplies. Can be used to heal other Survivors:",
+        "effects": [
+          "Increased Altruistic Healing speed of +45%."
+        ],
+        "flavor_text": "\"There is a cure for almost everything...but not for this.\"",
+        "raw_text": "A sturdy and well organised Med-Kit equipped with top condition emergency supplies. Can be used to heal other Survivors: Increased Altruistic Healing speed of +45%. Unlocks the Self-Heal action: Reduced Personal Healing speed of -33%. Reduced Item efficiency of -33%. The Emergency Med-Kit has a Capacity of 24 Charges. \"There is a cure for almost everything...but not for this.\""
+      },
+      "categories": [
+        "Rare Items"
+      ]
+    },
+    {
+      "title": "Engineer's Toolbox",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Engineer%27s_Toolbox",
+      "rarity": "Very Rare",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_engineersToolbox.png?188e4e",
+      "cost": {
+        "amount": 4000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A metal box with highly specialised tools meant for engineering. Most of the tools can be used by neophytes to make quick repairs or break various mechanical components.",
+        "effects": [
+          "16 Charges.",
+          "Increases the Repair speed by +100%.",
+          "Unlocks the Sabotage action.",
+          "Increases the Sabotage speed by +10%."
+        ],
+        "flavor_text": "\"I've created tools beyond compare and stood paralysed as they were stolen from me. These are but a poor replica, spat out by The Fog.\" — Vigo's Journal",
+        "raw_text": "A metal box with highly specialised tools meant for engineering. Most of the tools can be used by neophytes to make quick repairs or break various mechanical components. 16 Charges. Increases the Repair speed by +100%. Unlocks the Sabotage action. Increases the Sabotage speed by +10%. \"I've created tools beyond compare and stood paralysed as they were stolen from me. These are but a poor replica, spat out by The Fog.\" — Vigo's Journal"
+      },
+      "categories": [
+        "Very Rare Items"
+      ]
+    },
+    {
+      "title": "Eye of Vecna",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Eye_of_Vecna",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_LimitedVecnaEye.png?cd0c16",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Vecna Item Press the Use Item button to attune to the Eye of Vecna:",
+        "effects": [
+          "Triggers Killer Instinct for 3 seconds.",
+          "Grants The Lich the ability to kill you by his own hand, once you have accumulated 2 Hook Stages and are in the Dying State."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Vecna Item Press the Use Item button to attune to the Eye of Vecna: Triggers Killer Instinct for 3 seconds. Grants The Lich the ability to kill you by his own hand, once you have accumulated 2 Hook Stages and are in the Dying State. While healthy, you benefit from the following effect: The Aura of whichever Locker is nearest to your current location is revealed to you and highlighted in yellow. Perform a Rushed action to exit the highlighted Locker to activate a special ability: Prevents your Aura from being revealed for 12 seconds. Grants invisibility for 12 seconds. Grants a +25% Haste Status Effect for 12 seconds. Causes you to suffer from the Broken Status Effect for 30 seconds. The Eye of Vecna can retrieved from a Treasure Chests when rolling a 20 upon opening it. Limited Vecna Items are depleted on use but kept on your person. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Festive Toolbox",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Festive_Toolbox",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_festiveToolbox.png?50ce71",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A Toolbox packed to the brim with fireworks, it is prepared to celebrate all your life's successes... and failures.",
+        "effects": [
+          "32 Charges.",
+          "Increases the Repair speed by +50%.",
+          "Unlocks the Sabotage action.",
+          "Increases the Sabotage speed by +50%.",
+          "Succeeding a Great Skill Check detonates a small cluster of firecrackers.",
+          "Missing a Skill Check detonates fireworks."
+        ],
+        "flavor_text": null,
+        "raw_text": "A Toolbox packed to the brim with fireworks, it is prepared to celebrate all your life's successes... and failures. 32 Charges. Increases the Repair speed by +50%. Unlocks the Sabotage action. Increases the Sabotage speed by +50%. Succeeding a Great Skill Check detonates a small cluster of firecrackers. Missing a Skill Check detonates fireworks. The Festive Toolbox is only available during Spring Events."
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "First Aid Kit",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/First_Aid_Kit",
+      "rarity": "Uncommon",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_firstAidKit.png?c3dfd1",
+      "cost": {
+        "amount": 2500,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A standard First Aid Kit with all the necessary equipment for treating common to more serious injuries. Can be used to heal other Survivors:",
+        "effects": [
+          "Increased Altruistic Healing speed of +40%."
+        ],
+        "flavor_text": null,
+        "raw_text": "A standard First Aid Kit with all the necessary equipment for treating common to more serious injuries. Can be used to heal other Survivors: Increased Altruistic Healing speed of +40%. Unlocks the Self-Heal action: Reduced Personal Healing speed of -33%. Reduced Item efficiency of -33%. The First Aid Kit has a Capacity of 24 Charges."
+      },
+      "categories": [
+        "Uncommon Items"
+      ]
+    },
+    {
+      "title": "First Aid Spray",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/First_Aid_Spray",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_firstAidSpray.png?9634ac",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item A medication that helps reverse the effects of an Uroboros infection.",
+        "effects": [
+          "Press the Use Item button to cure yourself or another Survivor.",
+          "Can be used 2 times before it is consumed.",
+          "Can be found in Supply Cases located in the environment."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item A medication that helps reverse the effects of an Uroboros infection. Press the Use Item button to cure yourself or another Survivor. Can be used 2 times before it is consumed. Can be found in Supply Cases located in the environment. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Flash Grenade",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Flash_Grenade",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_flashGrenade.png?1e2548",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Craftable Limited Item Craftable when using Flashbang. Can be used as a distraction or blinding device.",
+        "effects": [
+          "Press the Use Item button to detonate the Flash Grenade.",
+          "Detonates with a loud bang and flashing lights, temporarily blinding and deafening any nearby Players.",
+          "Triggers a Loud Noise Notification."
+        ],
+        "flavor_text": null,
+        "raw_text": "Craftable Limited Item Craftable when using Flashbang. Can be used as a distraction or blinding device. Press the Use Item button to detonate the Flash Grenade. Detonates with a loud bang and flashing lights, temporarily blinding and deafening any nearby Players. Triggers a Loud Noise Notification. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items",
+        "Craft-able Items"
+      ]
+    },
+    {
+      "title": "Flashlight",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Flashlight",
+      "rarity": "Uncommon",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_flashlight.png?9d0a80",
+      "cost": {
+        "amount": 2500,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A standard Flashlight. Can be used to light your way in the darkness.",
+        "effects": [
+          "Press the Use Item button to light the Flashlight for up to 8 seconds."
+        ],
+        "flavor_text": "\"Most of the battery life was wastefully used by the previous owner.\"",
+        "raw_text": "A standard Flashlight. Can be used to light your way in the darkness. Press the Use Item button to light the Flashlight for up to 8 seconds. \"Most of the battery life was wastefully used by the previous owner.\""
+      },
+      "categories": [
+        "Uncommon Items"
+      ]
+    },
+    {
+      "title": "Fog Crystal",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Fog_Crystal",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_calamariSmokeBomb.png?b6f39e",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item \"Cold to the touch, the crystal vibrates from the force contained within.\" Press the Use Item button to drop the Fog Crystal at your feet, causing it to shatter and release a thick fog with a radius of 4 metres:",
+        "effects": [
+          "Expands its Area of Effect from 2 metres to 6 metres over 1 second.",
+          "Lingers at its maximum radius for 8 seconds.",
+          "Shrinks and dissipates over 2 seconds."
+        ],
+        "flavor_text": "\"Cold to the touch, the crystal vibrates from the force contained within.\"",
+        "raw_text": "Limited Item \"Cold to the touch, the crystal vibrates from the force contained within.\" Press the Use Item button to drop the Fog Crystal at your feet, causing it to shatter and release a thick fog with a radius of 4 metres: Expands its Area of Effect from 2 metres to 6 metres over 1 second. Lingers at its maximum radius for 8 seconds. Shrinks and dissipates over 2 seconds. Survivors inside the Area of Effect benefit from the following effect: Suppresses the creation of their Scratch Marks. The Fog Crystal has 1 Charge and can only be found in Chests during the 2v8 Event. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Fragile Mirror",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Fragile_Mirror",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_fragileMirror.png?898b39",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item A fragile pocket mirror pulled from the first White Glyph. Its surface is broken.",
+        "effects": [
+          "Must be carried to the Basement without performing any of the following interactions: Rushed Actions of any kind. Falling from height. Dropping the Item.",
+          "Rushed Actions of any kind.",
+          "Falling from height.",
+          "Dropping the Item.",
+          "Shatters when attempting to escape the Trial with it."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item A fragile pocket mirror pulled from the first White Glyph. Its surface is broken. Must be carried to the Basement without performing any of the following interactions: Rushed Actions of any kind. Falling from height. Dropping the Item. Shatters when attempting to escape the Trial with it. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Glowing Fungus",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Glowing_Fungus",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_glowingFungus.png?717ccf",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item Spawns in the environment when facing The Krasue:",
+        "effects": [
+          "When spawned, takes 5 seconds to grow and become interactable.",
+          "Can be picked up by Survivors.",
+          "Reveals its Aura to all Survivors afflicted with Leeched within 128 metres."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item Spawns in the environment when facing The Krasue: When spawned, takes 5 seconds to grow and become interactable. Can be picked up by Survivors. Reveals its Aura to all Survivors afflicted with Leeched within 128 metres. Press the Use Item button to eat the mushroom: Takes 3 seconds to complete. Limits movement to walking. Reduces the Walking speed to 70.8% of its default value. This effect lingers for 0.5 seconds. After eating a Glowing Fungus, Survivors benefit from the following effect: Depletes the Leeched Meter at a rate of -5%/s. This effect ends after being hit. Dropping a Glowing Fungus on the ground causes it to decay within 5 seconds unless a Survivor is within 2.5 metres of its location. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Hand of Vecna",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Hand_of_Vecna",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_LimitedVecnaHand.png?d689e2",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Vecna Item Press the Use Item button to attune to the Hand of Vecna:",
+        "effects": [
+          "Triggers Killer Instinct for 5 seconds.",
+          "Grants The Lich the ability to kill you by his own hand, once you have accumulated 2 Hook Stages and are in the Dying State."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Vecna Item Press the Use Item button to attune to the Hand of Vecna: Triggers Killer Instinct for 5 seconds. Grants The Lich the ability to kill you by his own hand, once you have accumulated 2 Hook Stages and are in the Dying State. While healthy, you benefit from the following effect: The Aura of whichever Locker is nearest to your current location is revealed to you and highlighted in yellow. Perform a Rushed action to enter the highlighted Locker to activate a special ability: Instantly teleports you to a different Locker at least 10 metres away. Triggers a Loud Noise Notification at that location. Removes 1 Health State. Causes you to suffer from the Broken Status Effect for 30 seconds. The Hand of Vecna can retrieved from a Treasure Chests when rolling a 20 upon opening it. Limited Vecna Items are depleted on use but kept on your person. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Keycard",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Keycard",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_keycard.png?11e179",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item Can only be found on the Nostromo Wreckage Map.",
+        "effects": [
+          "Crouch over the body of a dead cosmonaut found in the environment and press the Interaction button to pick up the Keycard.",
+          "Insert it into the terminal located by the Mass Hall to hack it. Perform the Hack Terminal interaction by pressing the keybinds for Left, Down, Up, Right. Hacking the terminal opens an airlock door to a secret room containing a Chest.",
+          "Perform the Hack Terminal interaction by pressing the keybinds for Left, Down, Up, Right.",
+          "Hacking the terminal opens an airlock door to a secret room containing a Chest."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item Can only be found on the Nostromo Wreckage Map. Crouch over the body of a dead cosmonaut found in the environment and press the Interaction button to pick up the Keycard. Insert it into the terminal located by the Mass Hall to hack it. Perform the Hack Terminal interaction by pressing the keybinds for Left, Down, Up, Right. Hacking the terminal opens an airlock door to a secret room containing a Chest. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Lament Configuration",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Lament_Configuration",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_lamentConfiguration.png?8033d5",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item Spawns in the environment when facing The Cenobite.",
+        "effects": [
+          "Starts a Chain Hunt after 90 seconds of spawning into the environment. Starts it immediately when it is picked up by The Cenobite.",
+          "Starts it immediately when it is picked up by The Cenobite.",
+          "Reveals its Aura to all Survivors."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item Spawns in the environment when facing The Cenobite. Starts a Chain Hunt after 90 seconds of spawning into the environment. Starts it immediately when it is picked up by The Cenobite. Reveals its Aura to all Survivors. Can be picked up and carried by Survivors: Resets the timer of the Lament Configuration and ends active Chain Hunts on other Survivors. Press the Use Item button to solve the Lament Configuration, causing it to respawn in a new location. Reveals your location to the The Cenobite while solving it through a special version of Killer Instinct and grants him the ability to teleport to you. Causes the Oblivious Status Effect when carried. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Lantern",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Lantern",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_modifierLantern.png?ccc4d9",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": null,
+        "effects": [],
+        "flavor_text": null,
+        "raw_text": "THIS ITEM IS UNUSED ( This Unlockable is not used in the current Game, but exists in the Game Code. ) The Lantern appears to be a non-Castlevania-themed version of the Candelabra. It will likely feature the same or similar effects in future iterations of the Lights Out Modifier."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Masquerade Flashlight",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Masquerade_Flashlight",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_masqueradeFlashlight.png?fe8294",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) Not even a mask can protect you from this Flashlight's bright beam.",
+        "effects": [
+          "Press the Use Item button to light the Flashlight for up to 8 seconds."
+        ],
+        "flavor_text": "\"\"Happy Anniversary! The future looks bright!\" — The Dead by Daylight Team\"",
+        "raw_text": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) Not even a mask can protect you from this Flashlight's bright beam. Press the Use Item button to light the Flashlight for up to 8 seconds. The Masquerade Flashlight is only available during Anniversary Events. \"\"Happy Anniversary! The future looks bright!\" — The Dead by Daylight Team\""
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "Masquerade Med-Kit",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Masquerade_Med-Kit",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_masqueradeMedKit.png?1a416b",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A festive Med-Kit with a shocking surprise, giving a whole new meaning to the term \"Health Scare\".",
+        "effects": [
+          "Increased confetti of +100%."
+        ],
+        "flavor_text": "\"Happy Anniversary! To your health!\" — The Dead by Daylight Team",
+        "raw_text": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A festive Med-Kit with a shocking surprise, giving a whole new meaning to the term \"Health Scare\". Increased confetti of +100%. Can be used to heal other Survivors: Increased Altruistic Healing speed of +40%. Unlocks the Self-Heal action: Reduced Personal Healing speed of -33%. Reduced Item efficiency of -33%. The Masquerade Med-Kit has a Capacity of 24 Charges. The Masquerade Med-Kit is only available during Anniversary Events. \"Happy Anniversary! To your health!\" — The Dead by Daylight Team"
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "Masquerade Toolbox",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Masquerade_Toolbox",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_masqueradeToolbox.png?8ef654",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A Toolbox with all of the standard gadgets: wrenches, screwdrivers, fireworks, a hammer...",
+        "effects": [
+          "32 Charges.",
+          "Increases the Repair speed by +50%.",
+          "Unlocks the Sabotage action.",
+          "Increases the Sabotage speed by +50%.",
+          "Detonates a firework once depleted. Yay!"
+        ],
+        "flavor_text": "\"Happy Anniversary! We're fixin' to have a big party!\" — The Dead by Daylight Team",
+        "raw_text": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A Toolbox with all of the standard gadgets: wrenches, screwdrivers, fireworks, a hammer... 32 Charges. Increases the Repair speed by +50%. Unlocks the Sabotage action. Increases the Sabotage speed by +50%. Detonates a firework once depleted. Yay! The Masquerade Toolbox is only available during Anniversary Events. \"Happy Anniversary! We're fixin' to have a big party!\" — The Dead by Daylight Team"
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "Mechanic's Toolbox",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Mechanic%27s_Toolbox",
+      "rarity": "Rare",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_mechanicsToolbox.png?55cd0f",
+      "cost": {
+        "amount": 3250,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A metal box with specialised mechanics tools. Even without training, can be used to repair or break various mechanical components.",
+        "effects": [
+          "16 Charges.",
+          "Increases the Repair speed by +75%.",
+          "Unlocks the Sabotage action.",
+          "Increases the Sabotage speed by +25%."
+        ],
+        "flavor_text": null,
+        "raw_text": "A metal box with specialised mechanics tools. Even without training, can be used to repair or break various mechanical components. 16 Charges. Increases the Repair speed by +75%. Unlocks the Sabotage action. Increases the Sabotage speed by +25%."
+      },
+      "categories": [
+        "Rare Items"
+      ]
+    },
+    {
+      "title": "Pocket Mirror",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Pocket_Mirror",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_pocketMirror.png?a21049",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item A repaired pocket mirror pulled from the second White Glyph. Its surface is frosty.",
+        "effects": [
+          "Grants 25,000 bonus Bloodpoints upon escaping the Trial with it."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item A repaired pocket mirror pulled from the second White Glyph. Its surface is frosty. Grants 25,000 bonus Bloodpoints upon escaping the Trial with it. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Ranger Med-Kit",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Ranger_Med-Kit",
+      "rarity": "Very Rare",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_rangerMedKit.png?7b5928",
+      "cost": {
+        "amount": 4000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A large metal box containing medical supplies aimed at emergency rescues in hard to reach, often isolated locations. Can be used to heal other Survivors:",
+        "effects": [
+          "Increased Altruistic Healing speed of +50%."
+        ],
+        "flavor_text": "\"A small engraved label can be found glued to the back panel: VK.ID-3994723.\"",
+        "raw_text": "A large metal box containing medical supplies aimed at emergency rescues in hard to reach, often isolated locations. Can be used to heal other Survivors: Increased Altruistic Healing speed of +50%. Unlocks the Self-Heal action: Reduced Personal Healing speed of -33%. Reduced Item efficiency of -33%. The Ranger Med-Kit has a Capacity of 24 Charges. \"A small engraved label can be found glued to the back panel: VK.ID-3994723.\""
+      },
+      "categories": [
+        "Very Rare Items"
+      ]
+    },
+    {
+      "title": "Remote Flame Turret",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Remote_Flame_Turret",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_remoteFlameTurret.png?f9f60b",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item A flamethrower turret that Survivors can retrieve from Control Stations and placed in the environment.",
+        "effects": [
+          "Tracks the presence of The Xenomorph within 41 metres of its location. This ability is briefly disabled whenever The Xenomorph exits the Tunnels.",
+          "This ability is briefly disabled whenever The Xenomorph exits the Tunnels.",
+          "Grants immunity from Detection by The Xenomorph when it is inside the Tunnels while carrying the Turret.",
+          "Survivors suffer from a -35% Hindered Status Effect, and the Exhausted and Incapacitated Status Effects, while carrying the Turret.",
+          "The Auras of Survivors carrying a Turret are revealed to all other Survivors.",
+          "Shoots flames at a Crawler Mode The Xenomorph when within 10 metres and established Line of Sight. This slows The Xenomorph and knocks it out of Crawler Mode after filling the Power gauge. Overheats after doing so or when firing consecutively for 4 seconds. Overheated Turrets can be repaired and reactivated by Survivors. Multiple Turrets firing simultaneously do not stack their damage output.",
+          "This slows The Xenomorph and knocks it out of Crawler Mode after filling the Power gauge.",
+          "Overheats after doing so or when firing consecutively for 4 seconds.",
+          "Overheated Turrets can be repaired and reactivated by Survivors.",
+          "Multiple Turrets firing simultaneously do not stack their damage output.",
+          "Dropping a Turret on the ground instead of deploying it destroys it after 30 seconds, unless at least one Survivor remains within 6 metres of where it was dropped.",
+          "Can be destroyed by an attack from The Xenomorph."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item A flamethrower turret that Survivors can retrieve from Control Stations and placed in the environment. Tracks the presence of The Xenomorph within 41 metres of its location. This ability is briefly disabled whenever The Xenomorph exits the Tunnels. Grants immunity from Detection by The Xenomorph when it is inside the Tunnels while carrying the Turret. Survivors suffer from a -35% Hindered Status Effect, and the Exhausted and Incapacitated Status Effects, while carrying the Turret. The Auras of Survivors carrying a Turret are revealed to all other Survivors. Shoots flames at a Crawler Mode The Xenomorph when within 10 metres and established Line of Sight. This slows The Xenomorph and knocks it out of Crawler Mode after filling the Power gauge. Overheats after doing so or when firing consecutively for 4 seconds. Overheated Turrets can be repaired and reactivated by Survivors. Multiple Turrets firing simultaneously do not stack their damage output. Dropping a Turret on the ground instead of deploying it destroys it after 30 seconds, unless at least one Survivor remains within 6 metres of where it was dropped. Can be destroyed by an attack from The Xenomorph. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Scribbled Map",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Scribbled_Map",
+      "rarity": "Uncommon",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_map.png?a9589c",
+      "cost": {
+        "amount": 2500,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "\"Peering at the parchment, a path appears in your mind. Moments later, you feel lost again.\" Start the Trial with 5 Charges. Press the Use Item button to channel the Scribbled Map:",
+        "effects": [
+          "The Auras of Pallets and Windows within 32 metres of your location are revealed to you for 12 seconds."
+        ],
+        "flavor_text": null,
+        "raw_text": "\"Peering at the parchment, a path appears in your mind. Moments later, you feel lost again.\" Start the Trial with 5 Charges. Press the Use Item button to channel the Scribbled Map: The Auras of Pallets and Windows within 32 metres of your location are revealed to you for 12 seconds. While channelling the Map, press the Secondary Action button at any point before the timer elapses for the following additional effect: Creates a Beam of Light at your current location that lasts for 16 seconds. The Auras of Generators within 32 metres of it are revealed to all Survivors and highlighted in red. The Scribbled Map consumes -1 Charge per use."
+      },
+      "categories": [
+        "Uncommon Items"
+      ]
+    },
+    {
+      "title": "Skeleton Key",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Skeleton_Key",
+      "rarity": "Rare",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_skeletonKey.png?1b6308",
+      "cost": {
+        "amount": 3250,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "\"A tarnished and crooked key, vibrating with ominous power.\" Start the Trial with 6 Charges. Press and hold the Use Item button to channel the Skeleton Key:",
+        "effects": [
+          "The Auras of other Survivors within 64 metres of your location are revealed to you for 10 seconds."
+        ],
+        "flavor_text": null,
+        "raw_text": "\"A tarnished and crooked key, vibrating with ominous power.\" Start the Trial with 6 Charges. Press and hold the Use Item button to channel the Skeleton Key: The Auras of other Survivors within 64 metres of your location are revealed to you for 10 seconds. While standing next to a locked Chest, press the Use Item button to quickly open it: Guarantees an Item of Rare Rarity or higher. The Aura of the Chest is revealed to other Survivors within 42 metres and highlighted in yellow: Grants the ability for 1 other Survivor to Rummage through that Chest once. Guarantees an Item of Rare Rarity or higher. While performing the Rummage action, the Aura of that Survivor is revealed to the Key holder. While standing next to the closed Hatch, press the Use Item button to re-open it: Takes 2.5 seconds to open. The Skeleton Key consumes -1 Charge per use of any one of its abilities."
+      },
+      "categories": [
+        "Rare Items"
+      ]
+    },
+    {
+      "title": "Sport Flashlight",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Sport_Flashlight",
+      "rarity": "Rare",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_sportFlashlight.png?574655",
+      "cost": {
+        "amount": 3250,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A very portable Flashlight with a good grip. Its efficient technology produces a powerful light while consuming less power.",
+        "effects": [
+          "Press the Use Item button to light the Flashlight for up to 8 seconds.",
+          "Has an increased Aim accuracy of +20%.",
+          "Has a reduced Depletion rate of -11%."
+        ],
+        "flavor_text": null,
+        "raw_text": "A very portable Flashlight with a good grip. Its efficient technology produces a powerful light while consuming less power. Press the Use Item button to light the Flashlight for up to 8 seconds. Has an increased Aim accuracy of +20%. Has a reduced Depletion rate of -11%."
+      },
+      "categories": [
+        "Rare Items"
+      ]
+    },
+    {
+      "title": "Third Year Party Starter",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Third_Year_Party_Starter",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_thirdYearPartyStarter.png?347e6b",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A small, highly-explosive dinner table decoration. Can be used as a distraction, as a blinding device or to celebrate our three years together.",
+        "effects": [
+          "Press the Use Item button to detonate the Firecracker.",
+          "Detonates into loud bangs and intense light flashes, temporarily blinding and deafening nearby Players."
+        ],
+        "flavor_text": "\"\"Happy Anniversary! Here is to our three years together!\" — The Dead by Daylight Team\"",
+        "raw_text": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A small, highly-explosive dinner table decoration. Can be used as a distraction, as a blinding device or to celebrate our three years together. Press the Use Item button to detonate the Firecracker. Detonates into loud bangs and intense light flashes, temporarily blinding and deafening nearby Players. The Third Year Party Starter is consumed on use. The Third Year Party Starter was only available during the Third Year Anniversary Event. \"\"Happy Anniversary! Here is to our three years together!\" — The Dead by Daylight Team\""
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "Toolbox",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Toolbox",
+      "rarity": "Uncommon",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_toolbox.png?760545",
+      "cost": {
+        "amount": 2500,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Metal box containing a set of basic tools. Even without training, can be used to repair or break various mechanical components.",
+        "effects": [
+          "20 Charges.",
+          "Increases the Repair speed by +50%.",
+          "Unlocks the Sabotage action.",
+          "Increases the Sabotage speed by +15%."
+        ],
+        "flavor_text": "\"It is unclear as to where these tools come from. Were they brought in by one of us or did they belong to one of the monsters?\"",
+        "raw_text": "Metal box containing a set of basic tools. Even without training, can be used to repair or break various mechanical components. 20 Charges. Increases the Repair speed by +50%. Unlocks the Sabotage action. Increases the Sabotage speed by +15%. \"It is unclear as to where these tools come from. Were they brought in by one of us or did they belong to one of the monsters?\""
+      },
+      "categories": [
+        "Uncommon Items"
+      ]
+    },
+    {
+      "title": "Trapple",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Trapple",
+      "rarity": "Unused",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_trapple.png?6eb3c1",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": null,
+        "effects": [],
+        "flavor_text": null,
+        "raw_text": "THIS ITEM IS UNUSED ( This Unlockable is not used in the current Game, but exists in the Game Code. ) Unknown Description."
+      },
+      "categories": [
+        "Unused Items"
+      ]
+    },
+    {
+      "title": "Utility Flashlight",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Utility_Flashlight",
+      "rarity": "Very Rare",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_utilityFlashlight.png?14da21",
+      "cost": {
+        "amount": 4000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A sturdy but heavy Flashlight that packs a lot of power.",
+        "effects": [
+          "Press the Use Item button to light the Flashlight for up to 12 seconds.",
+          "Has an increased Beam brightness of +30%.",
+          "Has an increased Blindness duration of +15%.",
+          "Has a reduced Aim accuracy of -20%."
+        ],
+        "flavor_text": null,
+        "raw_text": "A sturdy but heavy Flashlight that packs a lot of power. Press the Use Item button to light the Flashlight for up to 12 seconds. Has an increased Beam brightness of +30%. Has an increased Blindness duration of +15%. Has a reduced Aim accuracy of -20%."
+      },
+      "categories": [
+        "Very Rare Items"
+      ]
+    },
+    {
+      "title": "VHS Tape",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/VHS_Tape",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_vhsTape.png?d4c36e",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item The Cursed Tape can be retrieved from a TV located in the environment and must be reinserted into a specific one:",
+        "effects": [
+          "Inserting the Cursed Tape reduces Condemned by -3 Stacks. This spreads The Onryō's message and temporarily turns the TV off.",
+          "This spreads The Onryō's message and temporarily turns the TV off.",
+          "The specific TV is highlighted in yellow."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item The Cursed Tape can be retrieved from a TV located in the environment and must be reinserted into a specific one: Inserting the Cursed Tape reduces Condemned by -3 Stacks. This spreads The Onryō's message and temporarily turns the TV off. The specific TV is highlighted in yellow. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Vaccine",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Vaccine",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_vaccine.png?6c2818",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item A vaccine that helps reverse the effects of a T-Virus infection.",
+        "effects": [
+          "Press the Use Item button to cure yourself or another Survivor.",
+          "Can be used 1 time before it is consumed.",
+          "Can be found in Supply Cases located in the environment."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item A vaccine that helps reverse the effects of a T-Virus infection. Press the Use Item button to cure yourself or another Survivor. Can be used 1 time before it is consumed. Can be found in Supply Cases located in the environment. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Vigo's Fog Vial",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Vigo%27s_Fog_Vial",
+      "rarity": "Rare",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_vigosFogVial.png?ba135c",
+      "cost": {
+        "amount": 3250,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "\"From the man's own collection. Impeccable. Unparalleled.\" Start the Trial with 2 Charges. Press the Use Item button to release a concentrated Fog Cloud:",
+        "effects": [
+          "Expands to a maximum size of 8 metres over 1.2 seconds.",
+          "Lasts for 12 seconds.",
+          "Obscures visibility and sounds within its Area of Effect: Has an opacity of 33%. Suppresses Auras and Scratch Marks.",
+          "Has an opacity of 33%.",
+          "Suppresses Auras and Scratch Marks."
+        ],
+        "flavor_text": null,
+        "raw_text": "\"From the man's own collection. Impeccable. Unparalleled.\" Start the Trial with 2 Charges. Press the Use Item button to release a concentrated Fog Cloud: Expands to a maximum size of 8 metres over 1.2 seconds. Lasts for 12 seconds. Obscures visibility and sounds within its Area of Effect: Has an opacity of 33%. Suppresses Auras and Scratch Marks. Vigo's Fog Vial takes 60 seconds to recharge after use."
+      },
+      "categories": [
+        "Rare Items"
+      ]
+    },
+    {
+      "title": "Void Crystal",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Void_Crystal",
+      "rarity": "Limited",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_voidCrystal.png?730b51",
+      "cost": {
+        "amount": null,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "Limited Item Can be retrieved from the Void Well in exchange for 70 Void Energy and has 1 Charge. Press the Use Item button to shatter the Void Crystal at your feet and release a thick Fog Cloud:",
+        "effects": [
+          "Expands to its maximum size of 4 metres over 1 second.",
+          "Lasts for 8 seconds.",
+          "Obscures visibility and sounds for all Players within its Area of Effect.",
+          "Grants special benefits to its user: Grants them full invisibility while inside the Fog Cloud and their own Aura is revealed to them, highlighted in white. Suppresses the creation of their Scratch Marks while within 2–6 metres of the centre of the Fog Cloud.",
+          "Grants them full invisibility while inside the Fog Cloud and their own Aura is revealed to them, highlighted in white.",
+          "Suppresses the creation of their Scratch Marks while within 2–6 metres of the centre of the Fog Cloud."
+        ],
+        "flavor_text": null,
+        "raw_text": "Limited Item Can be retrieved from the Void Well in exchange for 70 Void Energy and has 1 Charge. Press the Use Item button to shatter the Void Crystal at your feet and release a thick Fog Cloud: Expands to its maximum size of 4 metres over 1 second. Lasts for 8 seconds. Obscures visibility and sounds for all Players within its Area of Effect. Grants special benefits to its user: Grants them full invisibility while inside the Fog Cloud and their own Aura is revealed to them, highlighted in white. Suppresses the creation of their Scratch Marks while within 2–6 metres of the centre of the Fog Cloud. Press the Use Item button while standing next to an incomplete Generator to lay the Void Crystal atop of it: Automatically repairs the Generator at a rate of 0.8%/s for a maximum of 30 seconds. This disables the ability to manually repair that Generator while active. The Killer can stop the auto-repair prematurely by damaging that Generator, which destroys the Void Crystal. The Void Crystal is only available during Halloween Events. Limited Items are consumed on use. They cannot be brought back to the Campfire after a Trial and are removed by The Entity upon exiting the Trial."
+      },
+      "categories": [
+        "Limited Items"
+      ]
+    },
+    {
+      "title": "Will O' Wisp",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Will_O%27_Wisp",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_willOWisp.png?2ee5ef",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A Flashlight equipped with a special lens cover that adds an orange tint and a little Ghost to the beam.",
+        "effects": [
+          "Press the Use Item button to light the Flashlight for up to 8 seconds.",
+          "Causes more friendly Ghosts in your life."
+        ],
+        "flavor_text": "\"Happy Trick or Treating!\"",
+        "raw_text": "THIS ITEM CAN NO LONGER BE OBTAINED FROM THE BLOODWEB ( This Unlockable can no longer be obtained, but stockpiles may still be used in Trials. ) A Flashlight equipped with a special lens cover that adds an orange tint and a little Ghost to the beam. Press the Use Item button to light the Flashlight for up to 8 seconds. Causes more friendly Ghosts in your life. The Will O' Wisp is only available during Halloween Events. \"Happy Trick or Treating!\""
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "Winter Party Starter",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Winter_Party_Starter",
+      "rarity": "Event",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_winterPartyStarter.png?c4c42b",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A small, highly-explosive dinner table decoration. Can be used as a distraction, as a blinding device or to celebrate.",
+        "effects": [
+          "Press the Use Item button to detonate the Firecracker.",
+          "Detonates into loud bangs and intense light flashes, temporarily blinding and deafening nearby Players."
+        ],
+        "flavor_text": null,
+        "raw_text": "A small, highly-explosive dinner table decoration. Can be used as a distraction, as a blinding device or to celebrate. Press the Use Item button to detonate the Firecracker. Detonates into loud bangs and intense light flashes, temporarily blinding and deafening nearby Players. The Winter Party Starter is consumed on use. The Winter Party Starter is only available during Winter Events."
+      },
+      "categories": [
+        "Event Items"
+      ]
+    },
+    {
+      "title": "Worn-Out Tools",
+      "wiki_url": "https://deadbydaylight.wiki.gg/wiki/Worn-Out_Tools",
+      "rarity": "Common",
+      "icon_url": "https://deadbydaylight.wiki.gg/images/IconItems_wornOutTools.png?755d30",
+      "cost": {
+        "amount": 2000,
+        "currency": "bloodpoints"
+      },
+      "description": {
+        "summary": "A metal box containing out of condition tools that could break at any moment. Even without training, can be used to repair or break various mechanical components.",
+        "effects": [
+          "16 Charges.",
+          "Increases the Repair speed by +50%.",
+          "Reduces the Success zone of Good Skill Checks by -10%.",
+          "Unlocks the Sabotage action."
+        ],
+        "flavor_text": "\"You call these tools?... Really?\"",
+        "raw_text": "A metal box containing out of condition tools that could break at any moment. Even without training, can be used to repair or break various mechanical components. 16 Charges. Increases the Repair speed by +50%. Reduces the Success zone of Good Skill Checks by -10%. Unlocks the Sabotage action. \"You call these tools?... Really?\""
+      },
+      "categories": [
+        "Common Items"
+      ]
+    }
+  ],
+  "errors": []
+}
